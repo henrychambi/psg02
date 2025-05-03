@@ -1,1 +1,7 @@
-# psg02
+# Titulo 1
+## Titulo 2
+### Titulo 3
+
+HOLA **bold text**
+
+HOLA ITALIC *italic text*
